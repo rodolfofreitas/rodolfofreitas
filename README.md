@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning C, C++, Unix, Virtual machines;
 - 🖥 I’m currently student at 42Lisboa Rfeitas-;
  
+ ##
+ 
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&theme=github_dark&count_private=true"
@@ -17,6 +19,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&count_private=true" />
 </picture>
 
+##
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Rodolfo-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img align="center" alt="Rodolfo-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -24,7 +28,6 @@
 <img align="center" alt="Rodolfo-Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img align="center" alt="Rodolfo-SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
  </div>
-
  
  ##
  
