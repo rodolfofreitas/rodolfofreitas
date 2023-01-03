@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C, C++, Unix, Virtual machines;
 - 🖥 I’m currently student at 42Lisboa Rfeitas-;
  
-<div align="center">
+<div style="display: inline_block" align="center">
 <a href="https://github.com/rodolfofreitas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfofreitas&layout=compact&langs_count=7&theme=dark"/>
@@ -13,12 +13,15 @@
 
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Rodolfo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img align="center" alt="Rodolfo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="Rodolfo-Shell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-<img align="center" alt="Rodolfo-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img align="center" alt="Rodolfo-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img align="center" alt="Rodolfo-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align="center" alt="Rodolfo-PowerBi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+<img align="center" alt="Rodolfo-Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img align="center" alt="Rodolfo-SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
  </div>
  
+ 
+ 	
  
  ##
  
