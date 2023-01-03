@@ -9,7 +9,7 @@
 
 <div align="center">
 <picture>
-<source 
+<source
   srcset="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&theme=github_dark&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
@@ -17,7 +17,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&count_private=true" />
 </picture>
 <picture>
 <source 
@@ -28,11 +28,9 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfofreitas&show_icons=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfofreitas&show_icons=true&count_private=true" />
 </picture>
 </div>
-
-
 
 ##
 
