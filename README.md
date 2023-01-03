@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rodolfo Freitas.
 
-- 🔭 I am currently working at Fujitsu;
+- 🔭 I am currently working at Fujitsu Portugal;
 - 👩‍💻 I am currently working with PowerBi, M Language and DAX, Dashboards and Management reports, SQL Server, ETL, RPA, Uipath;
 - 🌱 I’m currently learning C, C++, Unix, Virtual machines;
 - 🖥 I’m currently student at <a href=“https://www.42lisboa.com/“ target="_blank">42Lisboa</a> Rfeitas-;
