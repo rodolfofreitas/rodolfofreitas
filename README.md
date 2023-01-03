@@ -5,6 +5,20 @@
 - 🌱 I’m currently learning C, C++, Unix, Virtual machines;
 - 🖥 I’m currently student at <a href=“https://www.42lisboa.com/“ target="_blank">42Lisboa</a> Rfeitas-;
 
+##
+
+Hard-skills
+* Office;
+* PowerBi (Power Query, Dax);
+* UiPath;
+* SQL;
+* C/C++;
+* Shell scripting;
+* Git;
+* Docker;
+* SQL;
+* among others
+
  ##
 
 <div align="center">
