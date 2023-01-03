@@ -5,12 +5,17 @@
 - 🌱 I’m currently learning C, C++, Unix, Virtual machines;
 - 🖥 I’m currently student at 42Lisboa Rfeitas-;
  
-<div align="center">
-<a href="https://github.com/rodolfofreitas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfofreitas&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&theme=github_dark&count_private=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=rodolfofreitas&show_icons=true&count_private=true" />
+</picture>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rodolfo-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -19,9 +24,7 @@
 <img align="center" alt="Rodolfo-Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img align="center" alt="Rodolfo-SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
  </div>
- 
- 
- 	
+
  
  ##
  
