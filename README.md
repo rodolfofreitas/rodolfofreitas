@@ -51,3 +51,8 @@
 <img src="https://img.shields.io/badge/Lisboa-gray?style=for-the-badge&logo=42" alt="42 Badge"/>
 </div> 
  
+ ##
+ 
+<div align="center">
+![Snake animation](https://github.com/rodolfofreitas/rodolfofreitas/blob/output/github-contribution-grid-snake.svg)
+</div> 
