@@ -16,7 +16,6 @@ Hard-skills
 * Shell scripting;
 * Git;
 * Docker;
-* SQL;
 * among others
 
  ##
