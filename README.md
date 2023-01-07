@@ -67,7 +67,18 @@ Hard-skills
  ##
  
 <div align="center">
- 
-![Snake animation](https://github.com/rodolfofreitas/rodolfofreitas/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+<source
+  srcset="https://github.com/rodolfofreitas/rodolfofreitas/blob/output/github-contribution-grid-snake-dark.svg"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github.com/rodolfofreitas/rodolfofreitas/blob/output/github-contribution-grid-snake.svg"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github.com/rodolfofreitas/rodolfofreitas/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div> 
 
- </div> 
+ 
+ 
