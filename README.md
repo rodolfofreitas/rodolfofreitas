@@ -2,8 +2,7 @@
 
 - 🔭 I am currently working at Fujitsu Portugal;
 - 👩‍💻 I am currently working with PowerBi, M Language and DAX, Dashboards and Management reports, SQL Server, ETL, RPA, Uipath;
-- 🌱 I’m currently learning C, C++, Unix, Virtual machines;
-- 🖥 I’m currently student at <a href=“https://www.42lisboa.com/“ target="_blank">42Lisboa</a> Rfeitas-;
+- 🌱 I’m currently learning C, C++, Python, Unix, Virtual machines;
 
 ##
 
@@ -12,6 +11,7 @@ Hard-skills
 * PowerBi (Power Query, Dax);
 * UiPath;
 * SQL;
+* Python;
 * C/C++;
 * Shell scripting;
 * Git;
@@ -50,6 +50,7 @@ Hard-skills
 <div style="display: inline_block"><br>
 <img align="center" alt="Rodolfo-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img align="center" alt="Rodolfo-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="Rodolfo-PowerBi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
 <img align="center" alt="Rodolfo-Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img align="center" alt="Rodolfo-SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
