@@ -94,5 +94,15 @@ Hard-skills
 </picture>
 </div> 
 
+## Projetos
+
+Aqui está o projeto que estou trabalhando. Cada projeto é acompanhado de uma breve descrição e um link para mais detalhes.
+
+1. **RPA em Python**:
+   Descrição: Estou a desenvolver um projeto em Python, para replicar os passos RPA que utilizo UIPath, mas totalmente em Python, basicamente é extrair relatorios de ferramentas de ITSM.
+   [Mais Detalhes](https://github.com/rodolfofreitas/ProjetoRPA)
+
+Fique à vontade para explorar esses projetos e entre em contato comigo se você tiver alguma pergunta ou sugestão!
+
  
  
