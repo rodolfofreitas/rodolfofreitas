@@ -47,14 +47,27 @@ Hard-skills
 
 ##
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Rodolfo-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align="center" alt="Rodolfo-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="Rodolfo-PowerBi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-<img align="center" alt="Rodolfo-Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img align="center" alt="Rodolfo-SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
- </div>
+<div style="display: inline-block;"><br>
+  <a href="javascript:void(0)">
+    <img align="center" alt="Rodolfo-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+  <a href="javascript:void(0)">
+    <img align="center" alt="Rodolfo-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+  <a href="javascript:void(0)">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="javascript:void(0)">
+    <img align="center" alt="Rodolfo-PowerBi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+  </a>
+  <a href="javascript:void(0)">
+    <img align="center" alt="Rodolfo-Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  </a>
+  <a href="javascript:void(0)">
+    <img align="center" alt="Rodolfo-SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+</div>
+
  
  ##
  
