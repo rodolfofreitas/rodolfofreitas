@@ -1,20 +1,29 @@
 # 👋 Bem-vindo ao meu perfil GitHub! Sou Rodolfo Freitas.
 
-- 🔭 Trabalhando na Fujitsu Portugal;
-- 👩‍💻 Atualmente, focado em PowerBi, M Language, DAX, SQL Server, ETL, RPA, UiPath;
-- 🌱 Aprendendo C, C++, Python, Unix, Máquinas Virtuais.
+## 💼 Sobre Mim
+
+Sou um entusiasta de tecnologia com experiência em desenvolvimento de soluções de Business Intelligence e RPA. Atualmente, estou trabalhando na Fujitsu Portugal, onde foco no desenvolvimento de soluções em Power BI, M Language, DAX, SQL Server, ETL, RPA e UiPath. Fora do trabalho, estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 
 ## 🚀 Hard-skills
-- Office
-- PowerBi (Power Query, Dax)
+- Office 365
+- Power BI (Power Query, DAX)
 - UiPath
-- SQL
+- SQL Server
 - Python
 - C/C++
-- Shell scripting
+- Shell Scripting
 - Git
 - Docker
-- e muito mais!
+- E muito mais!
+
+## 💻 Em Desenvolvimento
+1. **RPA em Python:**
+   Descrição: Desenvolvendo um projeto em Python para replicar passos RPA do UiPath.
+   [Mais Detalhes](https://github.com/rodolfofreitas/ProjetoRPA)
+
+2. **Dashboard IVR Python:**
+   Descrição: Desenvolvendo em Python uma aplicação que permite consultar a API da plataforma Nubitalk para obter dados das campanhas IVR ativas. O projeto inclui um servidor Flask com suporte a Socket.IO para fornecer uma interface web em tempo real que exibe os dados em um formato amigável. Além  disso, ele gerencia a autenticação por meio de tokens de forma segura, garantindo a integridade dos dados. Este projeto é útil para monitorar e visualizar informações críticas de serviços em tempo real.
+   [Mais Detalhes](https://github.com/rodolfofreitas/ProjetoNubitalk)
 
 ## 🛠️ Tecnologias e Ferramentas
 <div style="display: inline-block;"><br>
@@ -54,7 +63,6 @@
 </picture>
 </div>
 
-
 ## 🌐 Links Sociais
 - <a href="https://www.linkedin.com/in/rodolfocaldasfreitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - <a href = "mailto:rodolfoc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -62,11 +70,9 @@
 ## 🐍 Contribuições
 ![GitHub Contribution Grid Snake](https://github.com/rodolfofreitas/rodolfofreitas/blob/output/github-contribution-grid-snake-dark.svg)
 
-## 🛠️ Trabalhos em Desenvolvimento
-1. **RPA em Python:**
-   Descrição: Desenvolvendo um projeto em Python para replicar passos RPA do UiPath.
-   [Mais Detalhes](https://github.com/rodolfofreitas/ProjetoRPA)
+## 💬 Contato
+Sinta-se à vontade para entrar em contato comigo para discutir projetos ou oportunidades de colaboração.
 
-2. **Dashboard IVR Python:**
-   Descrição: Desenvolvendo em Python uma dashboard para dados de IVR via API.
-   [Mais Detalhes](https://github.com/rodolfofreitas/ProjetoNubitalk)
+Obrigado por visitar meu perfil!
+
+
